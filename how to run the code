@@ -1,0 +1,20 @@
+first run the code 
+if its shows like this TypeError: Unknown file extension ".ts"
+npm i tsx
+copy and paste the upper code in your VS code then 
+                 [npm start
+                  npm error Missing script: "start"
+                  npm error
+                  npm error Did you mean one of these?
+                  npm error   npm star # Mark your favorite packages
+                  npm error   npm stars # View packages marked as favorites
+                  npm error
+                  npm error To see a list of scripts, run:
+                  npm error   npm run
+                  npm error A complete log of this run can be found in:]
+if the code shown like this now your can use this 
+npm run dev
+then its shows the LOCALHOST LINK click on the link and continue the EXPLORE my website 
+:- if you like it or any suggestions ,i mentioned my EMAIL in the that website or uk824744@gmail.com 
+  contact me 
+thank you
